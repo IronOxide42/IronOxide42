@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on frameworks! I love helping others build what they want to build.
 - 📫 How to reach me: IronOxide42@gmail.com
 
-Most of my projects are at my other GitHub account, @OxidalWave
+Most of my projects are at my other GitHub account, https://github.com/OxidalWave
 
 <!---
 IronOxide42/IronOxide42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
